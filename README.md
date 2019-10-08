@@ -6,25 +6,39 @@ Small exercises to get you used to reading and writing Rust code. Includes pract
 
 This repo is my rustlings' solution collection. Hope it can help you more or less. :)
 
-**✅Successfully compiled all rustlings exercises! All the answers can be found in corresponding folders.** For example, you can check file `exercises/strings/strings1.rs` to read my solution about `strings` chapter.
+**🎉 Successfully compiled all rustlings exercises! All the answers can be found in corresponding folders.** For example, you can check file `exercises/strings/strings1.rs` to read my solution about `strings` chapter.
+
+* ✅ if
+* ✅ functions
+* ✅ variables
+* ✅ primitive_types
+* ✅ strings
+* ✅ modules
+* ✅ macros
+* ✅ move_semantics
+* ✅ error_handling
+* ✅ threads
+* ✅ standard_library_types
 
 ## README (CN)
 
-rust 学习之 rustlings 训练答案集，所有训练均已完成，内容在具体的文件中可以查看，比如 `strings` 为已完成状态，则对应 `exercises/strings/strings1.rs` 文件中代码即为答案，以下为训练分章节目录。
+**🎉 Rust 学习之 Rustlings 训练答案集，所有训练均已完成。**
 
-* [x] if
-* [x] functions
-* [x] variables
-* [x] primitive_types
-* [x] strings
-* [x] modules
-* [x] macros
-* [x] move_semantics
-* [x] error_handling
-* [x] threads
-* [x] standard_library_types
+内容在具体的文件中可以查看，比如 `strings` 为已完成状态，则对应 `exercises/strings/strings1.rs` 文件中代码即为答案，以下为训练分章节目录。
 
-## Manually
+* ✅ if
+* ✅ functions
+* ✅ variables
+* ✅ primitive_types
+* ✅ strings
+* ✅ modules
+* ✅ macros
+* ✅ move_semantics
+* ✅ error_handling
+* ✅ threads
+* ✅ standard_library_types
+
+## Manually Installation
 
 Basically: Clone the repository, checkout to the latest tag, run `cargo install`.
 
